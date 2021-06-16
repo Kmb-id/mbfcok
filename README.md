@@ -3,8 +3,8 @@
 # BladeKnife
 ============================
 # HOW TO USAGE:
-- pkg install update
-- pkg install upgrade
+- pkg update
+- pkg upgrade
 - termux-setup-storage
 - pkg install python git curl
 - pip install --upgrade pip
